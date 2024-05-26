@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[url_hình_bìa](https://camo.githubusercontent.com/3fc58d630f8f770987b3800a90372321c44dcf0000876d71ebe441f5538437e2/68747470733a2f2f692e696d6775722e636f6d2f576d4d6e5352742e706e67)"alt="Hình bìa"/>
+  <img src="[url_hình_bìa](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM3g2u0BohbCwC9k5gYH0FKdHpnY9JAa989wJZtcG3GRJisuD6)"alt="Hình bìa"/>
 </p>
 
 # Quản lí dự án công nghệ thông tin
