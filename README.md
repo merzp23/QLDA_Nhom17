@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
 </p>
 
-<h1 align="center"><b>PHÁT TRIỂN ỨNG DỤNG WEB</b></h>
+<h1 align="center"><b>Quản lý dự án CNTT</b></h>
 
 ## THÀNH VIÊN NHÓM
 |STT| MSSV      | Họ và Tên             |Chức Vụ    | Github                                                  | Email                   |
